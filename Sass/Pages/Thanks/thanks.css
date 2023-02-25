@@ -1,0 +1,19 @@
+#thanks {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+}
+#thanks a {
+  background-color: var(--dark-blue);
+  color: var(--orange);
+  padding: 0.5rem 1rem;
+  margin: 1.5rem 0;
+  border-radius: 50px;
+  cursor: auto;
+}
+#thanks h1 {
+  margin-bottom: 0.5rem;
+}
+#thanks p {
+  text-align: center;
+}

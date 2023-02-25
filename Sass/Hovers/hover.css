@@ -1,0 +1,9 @@
+#container main #submit #ratings .stars:hover {
+  background-color: var(--light-grey);
+  color: var(--white);
+}
+
+#container main #submit button:hover {
+  background-color: var(--white);
+  color: var(--orange);
+}/*# sourceMappingURL=hover.css.map */
